@@ -82,7 +82,7 @@ export default class SummaryPopup extends React.Component {
                           paddingLeft: '0.5rem',
                         }}
                       >
-                        {annotation.selection.content}
+                        {annotation.content}
                       </blockquote>
                       <p
                         style={{
